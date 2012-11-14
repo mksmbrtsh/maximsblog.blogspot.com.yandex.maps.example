@@ -1,0 +1,7 @@
+<resources>
+    <string name="main_menu">условия использования Яндекс-карты</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="ed_coord_title">Редактирование координат</string>
+	<string name="ya">Приложение использует Яндекс-карты, условия использования сервиса Яндекс.Карты: http://legal.yandex.ru/maps_termsofuse</string>
+</resources>
